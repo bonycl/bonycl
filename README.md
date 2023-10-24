@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bonycl
+- 👋 Hi, I’m Dinar
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Swift
+- 🌱 Currently, in a team of like-minded people, we are developing an application to help pets.
 - 💞️ I’m looking to collaborate on any project)
 - 📫 You can reach me by astrof37@gmail.com
 
