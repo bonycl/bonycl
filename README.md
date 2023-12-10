@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile development
 - 🌱 Currently, in a team of like-minded people, we are developing an application to help pets.
 - 💞️ I’m looking to collaborate on any project)
-- 📫 You can reach me by astrof37@gmail.com
+- 📫 You can reach me by dinarshakirovdev@gmail.com
 
 <!---
 bonycl/bonycl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
